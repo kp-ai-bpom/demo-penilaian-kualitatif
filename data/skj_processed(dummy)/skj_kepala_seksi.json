@@ -1,0 +1,40 @@
+{
+  "jabatan": "Kepala Seksi",
+  "level_jabatan": "Eselon IIIB",
+  "unit_organisasi": "Sekretariat Dinas",
+  "deskripsi_jabatan": "Memimpin seksi untuk melaksanakan fungsi-fungsi dinas",
+  "kompetensi": [
+    {
+      "nama": "Integritas",
+      "deskripsi": "Kemampuan untuk bertindak sesuai dengan nilai-nilai moral dan etika",
+      "level_1": "Memahami konsep integritas dasar",
+      "level_2": "Menerapkan integritas dalam tugas rutin",
+      "level_3": "Konsisten menunjukkan integritas dalam semua situasi",
+      "level_4": "Menjadi model integritas bagi tim",
+      "level_5": "Membangun budaya integritas di organisasi"
+    },
+    {
+      "nama": "Kerjasama",
+      "deskripsi": "Kemampuan untuk bekerja sama dengan orang lain dalam mencapai tujuan bersama",
+      "level_1": "Memahami pentingnya kerjasama",
+      "level_2": "Berkolaborasi dalam pekerjaan sederhana",
+      "level_3": "Memfasilitasi kerjasama lintas unit",
+      "level_4": "Mengelola tim multifungsi secara efektif",
+      "level_5": "Membangun ekosistem kolaborasi strategis"
+    },
+    {
+      "nama": "Kepemimpinan",
+      "deskripsi": "Kemampuan untuk mempengaruhi dan mengarahkan orang lain mencapai tujuan",
+      "level_1": "Memahami konsep kepemimpinan dasar",
+      "level_2": "Menunjukkan kepemimpinan dalam situasi terbatas",
+      "level_3": "Memimpin tim efektif mencapai target",
+      "level_4": "Mengembangkan pemimpin baru di dalam tim",
+      "level_5": "Memberikan visi strategis jangka panjang"
+    }
+  ],
+  "level_target": {
+    "Integritas": 3,
+    "Kerjasama": 3,
+    "Kepemimpinan": 3
+  }
+}

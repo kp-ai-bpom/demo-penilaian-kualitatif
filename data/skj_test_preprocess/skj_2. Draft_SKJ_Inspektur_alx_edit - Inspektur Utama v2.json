@@ -1,0 +1,161 @@
+{
+  "kode_jabatan": "Inspektur",
+  "nama_jabatan": null,
+  "level_jabatan": null,
+  "unit_organisasi": "Pengawasan Intern Pemerintah",
+  "deskripsi_jabatan": "Inspektur Utama adalah jabatan pimpinan tinggi madya yang membawahi Inspektur dan bertanggung jawab langsung kepada Kepala Badan Pengawas Obat dan Makanan (BPOM).",
+  "iktishar_jabatan": "Inspektur melaksanakan Pengawasan Intern berupa Layanan Jasa Asurans meliputi kegiatan audit, reviu, evaluasi, pemantauan, kegiatan pengawasan lain dan Layanan Jasa Konsultansi meliputi kegiatan pemberian saran dan jasa lainnya dalam rangka memberikan keyakinan yang memadai bahwa kegiatan telah dilaksanakan dengan tata kepemerintahan yang baik dan untuk memberikan nilai tambah dalam upaya meningkatkan proses tata kelola, manajemen risiko, dan kegiatan pengendalian terhadap penyelenggaraan tugas dan fungsi BPOM.",
+  "kompetensi": [
+    {
+      "nama": "IKHTISAR JABATAN",
+      "deskripsi": "IKHTISAR JABATAN",
+      "level_target": 3
+    },
+    {
+      "nama": "Ikhtisar Jabatan",
+      "deskripsi": "Ikhtisar Jabatan",
+      "level_target": 3
+    },
+    {
+      "nama": "STANDAR KOMPETENSI",
+      "deskripsi": "STANDAR KOMPETENSI",
+      "level_target": 3
+    },
+    {
+      "nama": "Kompetensi",
+      "deskripsi": "Kompetensi",
+      "level_target": 3
+    },
+    {
+      "nama": "Manajerial",
+      "deskripsi": "Manajerial",
+      "level_target": 3
+    },
+    {
+      "nama": "Integritas",
+      "deskripsi": "Integritas",
+      "level_target": 5
+    },
+    {
+      "nama": "Kerjasama",
+      "deskripsi": "Kerjasama",
+      "level_target": 5
+    },
+    {
+      "nama": "Komunikasi",
+      "deskripsi": "Komunikasi",
+      "level_target": 5
+    },
+    {
+      "nama": "Orientasi pada hasil",
+      "deskripsi": "Orientasi pada hasil",
+      "level_target": 5
+    },
+    {
+      "nama": "Pelayanan Publik",
+      "deskripsi": "Pelayanan Publik",
+      "level_target": 5
+    },
+    {
+      "nama": "Pengembangan diri dan orang lain",
+      "deskripsi": "Pengembangan diri dan orang lain",
+      "level_target": 5
+    },
+    {
+      "nama": "Mengelola Perubahan",
+      "deskripsi": "Mengelola Perubahan",
+      "level_target": 5
+    },
+    {
+      "nama": "Pengambilan Keputusan",
+      "deskripsi": "Pengambilan Keputusan",
+      "level_target": 5
+    },
+    {
+      "nama": "Sosial Kultural",
+      "deskripsi": "Sosial Kultural",
+      "level_target": 3
+    },
+    {
+      "nama": "Perekat Bangsa",
+      "deskripsi": "Perekat Bangsa",
+      "level_target": 5
+    },
+    {
+      "nama": "Teknis",
+      "deskripsi": "Teknis",
+      "level_target": 3
+    },
+    {
+      "nama": "Manajemen Audit (pengawasan) intern",
+      "deskripsi": "Manajemen Audit (pengawasan) intern",
+      "level_target": 5
+    },
+    {
+      "nama": "Standar Audit",
+      "deskripsi": "Standar Audit",
+      "level_target": 5
+    },
+    {
+      "nama": "Tata Kelola, Manajemen Risiko, dan Pengendalian",
+      "deskripsi": "Tata Kelola, Manajemen Risiko, dan Pengendalian",
+      "level_target": 5
+    },
+    {
+      "nama": "Analisis Proses Bisnis Mitra Pengawasan",
+      "deskripsi": "Analisis Proses Bisnis Mitra Pengawasan",
+      "level_target": 5
+    },
+    {
+      "nama": "Pelaksanaan Pengawasan Intern",
+      "deskripsi": "Pelaksanaan Pengawasan Intern",
+      "level_target": 5
+    },
+    {
+      "nama": "Pengembangan Metodologi Pengawasan",
+      "deskripsi": "Pengembangan Metodologi Pengawasan",
+      "level_target": 5
+    },
+    {
+      "nama": "PERSYARATAN JABATAN",
+      "deskripsi": "PERSYARATAN JABATAN",
+      "level_target": 3
+    },
+    {
+      "nama": "Jenis Persyaratan",
+      "deskripsi": "Jenis Persyaratan",
+      "level_target": 3
+    },
+    {
+      "nama": "Pendidikan",
+      "deskripsi": "Jenjang",
+      "level_target": 3
+    },
+    {
+      "nama": "Pelatihan",
+      "deskripsi": "Manajerial",
+      "level_target": 3
+    },
+    {
+      "nama": "Pengalaman Kerja",
+      "deskripsi": "Pengalaman Kerja",
+      "level_target": 3
+    },
+    {
+      "nama": "Pangkat",
+      "deskripsi": "Pangkat",
+      "level_target": 3
+    },
+    {
+      "nama": "Indikator (Output) Kinerja Jabatan",
+      "deskripsi": "Indikator (Output) Kinerja Jabatan",
+      "level_target": 3
+    }
+  ],
+  "indikator_perilaku": {},
+  "source_file": "2. Draft_SKJ_Inspektur_alx_edit - Inspektur Utama v2.docx",
+  "source_path": "c:\\Users\\erwin\\Demo-RAG\\demo-rag-env\\data\\SKJ Dukman berdasarkan Review Menpan (dengan kode jabatan)-20250919T073443Z-1-001\\SKJ Dukman berdasarkan Review Menpan (dengan kode jabatan)\\2. Draft_SKJ_Inspektur_alx_edit - Inspektur Utama v2.docx",
+  "extraction_status": "partial",
+  "extracted_paragraphs": 2,
+  "extracted_tables": 2
+}

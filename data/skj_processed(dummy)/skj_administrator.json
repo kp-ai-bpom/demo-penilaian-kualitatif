@@ -1,0 +1,40 @@
+{
+  "jabatan": "Administrator",
+  "level_jabatan": "Eselon IVA",
+  "unit_organisasi": "Tata Usaha",
+  "deskripsi_jabatan": "Mengelola administrasi dan tata usaha pada unit kerja",
+  "kompetensi": [
+    {
+      "nama": "Integritas",
+      "deskripsi": "Kemampuan untuk bertindak sesuai dengan nilai-nilai moral dan etika",
+      "level_1": "Memahami konsep integritas dasar",
+      "level_2": "Menerapkan integritas dalam tugas rutin",
+      "level_3": "Konsisten menunjukkan integritas dalam semua situasi",
+      "level_4": "Menjadi model integritas bagi tim",
+      "level_5": "Membangun budaya integritas di organisasi"
+    },
+    {
+      "nama": "Kerjasama",
+      "deskripsi": "Kemampuan untuk bekerja sama dengan orang lain dalam mencapai tujuan bersama",
+      "level_1": "Memahami pentingnya kerjasama",
+      "level_2": "Berkolaborasi dalam pekerjaan sederhana",
+      "level_3": "Memfasilitasi kerjasama lintas unit",
+      "level_4": "Mengelola tim multifungsi secara efektif",
+      "level_5": "Membangun ekosistem kolaborasi strategis"
+    },
+    {
+      "nama": "Pengelolaan Sumber Daya Manusia",
+      "deskripsi": "Kemampuan mengelola SDM secara profesional",
+      "level_1": "Memahami dasar pengelolaan SDM",
+      "level_2": "Menerapkan prosedur standar pengelolaan SDM",
+      "level_3": "Mengelola SDM yang menghasilkan kinerja optimal",
+      "level_4": "Mengembangkan talent management system",
+      "level_5": "Membangun strategic human capital planning"
+    }
+  ],
+  "level_target": {
+    "Integritas": 2,
+    "Kerjasama": 2,
+    "Pengelolaan Sumber Daya Manusia": 2
+  }
+}

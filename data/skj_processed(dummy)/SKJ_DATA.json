@@ -1,0 +1,41 @@
+ {
+    "Administrator": {
+        "level_jabatan": "Eselon IV",
+        "kompetensi": {
+            "Integritas": {
+                "deskripsi": "Menjaga kejujuran, konsistensi ucapan dan tindakan, serta mematuhi aturan.",
+                "level_target": 2
+            },
+            "Kerjasama": {
+                "deskripsi": "Kemampuan bekerja sama dengan pihak lain untuk mencapai tujuan.",
+                "level_target": 2
+            }
+        }
+    },
+    "Inspektur": {
+        "level_jabatan": "Eselon III",
+        "kompetensi": {
+            "Pengambilan Keputusan": {
+                "deskripsi": "Mampu mengambil keputusan berdasarkan data dan risiko yang ada.",
+                "level_target": 3
+            },
+            "Orientasi Hasil": {
+                "deskripsi": "Berfokus pada pencapaian target dan kualitas hasil kerja.",
+                "level_target": 3
+            }
+        }
+    },
+    "Kepala Seksi": {
+        "level_jabatan": "Eselon IV",
+        "kompetensi": {
+            "Pengelolaan Kinerja": {
+                "deskripsi": "Mengelola kinerja tim dan memonitor capaian.",
+                "level_target": 3
+            },
+            "Komunikasi": {
+                "deskripsi": "Menyampaikan informasi secara jelas dan efektif.",
+                "level_target": 3
+            }
+        }
+    }
+}

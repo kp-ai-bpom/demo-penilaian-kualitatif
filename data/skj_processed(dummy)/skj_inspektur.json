@@ -1,0 +1,40 @@
+{
+  "jabatan": "Inspektur",
+  "level_jabatan": "Eselon III",
+  "unit_organisasi": "Inspektorat",
+  "deskripsi_jabatan": "Memimpin pengawasan internal dan audit operasional pada dinas",
+  "kompetensi": [
+    {
+      "nama": "Integritas",
+      "deskripsi": "Kemampuan untuk bertindak sesuai dengan nilai-nilai moral dan etika",
+      "level_1": "Memahami konsep integritas dasar",
+      "level_2": "Menerapkan integritas dalam tugas rutin",
+      "level_3": "Konsisten menunjukkan integritas dalam semua situasi",
+      "level_4": "Menjadi model integritas bagi tim",
+      "level_5": "Membangun budaya integritas di organisasi"
+    },
+    {
+      "nama": "Komitmen Mutu",
+      "deskripsi": "Dedikasi terhadap peningkatan kualitas berkelanjutan",
+      "level_1": "Memahami pentingnya mutu",
+      "level_2": "Menerapkan standar mutu dalam pekerjaan",
+      "level_3": "Memastikan proses berkualitas tinggi",
+      "level_4": "Mengembangkan sistem manajemen mutu",
+      "level_5": "Memimpin transformasi mutu organisasi"
+    },
+    {
+      "nama": "Kepemimpinan",
+      "deskripsi": "Kemampuan untuk mempengaruhi dan mengarahkan orang lain mencapai tujuan",
+      "level_1": "Memahami konsep kepemimpinan dasar",
+      "level_2": "Menunjukkan kepemimpinan dalam situasi terbatas",
+      "level_3": "Memimpin tim efektif mencapai target",
+      "level_4": "Mengembangkan pemimpin baru di dalam tim",
+      "level_5": "Memberikan visi strategis jangka panjang"
+    }
+  ],
+  "level_target": {
+    "Integritas": 4,
+    "Komitmen Mutu": 4,
+    "Kepemimpinan": 4
+  }
+}

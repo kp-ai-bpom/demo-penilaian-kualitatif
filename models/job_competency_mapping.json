@@ -1,0 +1,153 @@
+{
+  "Analis Kepegawaian": {
+    "level": [
+      "Ahli Pertama",
+      "Ahli Muda",
+      "Ahli Madya",
+      "Ahli Utama"
+    ],
+    "kompetensi_teknis": [
+      "Manajemen SDM",
+      "Analisis Jabatan",
+      "Rekrutmen dan Seleksi",
+      "Pengembangan Kompetensi",
+      "Evaluasi Kinerja"
+    ],
+    "kompetensi_manajerial": [
+      "Perencanaan",
+      "Pengorganisasian",
+      "Pengawasan",
+      "Evaluasi Kinerja",
+      "Pengambilan Keputusan"
+    ],
+    "kompetensi_sosial_kultural": [
+      "Komunikasi",
+      "Kerjasama",
+      "Pelayanan Publik",
+      "Integritas",
+      "Adaptabilitas"
+    ],
+    "indikator_perilaku": {
+      "level_1": [
+        "Menyelesaikan tugas rutin sesuai prosedur",
+        "Berkomunikasi efektif dengan atasan langsung",
+        "Mengumpulkan data yang diperlukan"
+      ],
+      "level_2": [
+        "Mengkoordinasikan tim kecil dalam penyelesaian tugas",
+        "Melakukan analisis data sederhana",
+        "Menyusun laporan periodik yang komprehensif"
+      ],
+      "level_3": [
+        "Menyusun strategi pengembangan SDM",
+        "Memimpin unit kerja dengan efektif",
+        "Melakukan analisis kebijakan kepegawaian"
+      ],
+      "level_4": [
+        "Mengembangkan kebijakan nasional di bidang kepegawaian",
+        "Memimpin organisasi dengan visi yang jelas",
+        "Melakukan inovasi sistem manajemen SDM"
+      ]
+    }
+  },
+  "Pengawas Pemerintahan": {
+    "level": [
+      "Pengawas",
+      "Pengawas Madya",
+      "Pengawas Utama"
+    ],
+    "kompetensi_teknis": [
+      "Pengawasan",
+      "Audit",
+      "Evaluasi Kinerja",
+      "Analisis Risiko",
+      "Investigasi"
+    ],
+    "kompetensi_manajerial": [
+      "Kepemimpinan",
+      "Pengambilan Keputusan",
+      "Pengendalian",
+      "Manajemen Konflik",
+      "Strategi Pengawasan"
+    ],
+    "kompetensi_sosial_kultural": [
+      "Integritas",
+      "Objektivitas",
+      "Ketegasan",
+      "Komunikasi Assertif",
+      "Keberanian Moral"
+    ],
+    "indikator_perilaku": {
+      "level_1": [
+        "Melakukan pengawasan rutin sesuai checklist",
+        "Menyusun laporan temuan pengawasan",
+        "Mengikuti prosedur audit standar"
+      ],
+      "level_2": [
+        "Memimpin tim pengawasan kecil",
+        "Melakukan analisis temuan kompleks",
+        "Menyusun rekomendasi perbaikan yang actionable"
+      ],
+      "level_3": [
+        "Mengembangkan sistem pengawasan yang efektif",
+        "Memimpin investigasi kasus kompleks",
+        "Melakukan evaluasi kebijakan organisasi"
+      ],
+      "level_4": [
+        "Menyusun kebijakan pengawasan nasional",
+        "Memimpin organisasi pengawasan yang kredibel",
+        "Mengembangkan standar audit nasional"
+      ]
+    }
+  },
+  "Pranata Komputer": {
+    "level": [
+      "Pranata Komputer",
+      "Pranata Komputer Madya",
+      "Pranata Komputer Utama"
+    ],
+    "kompetensi_teknis": [
+      "Pengembangan Sistem",
+      "Manajemen Basis Data",
+      "Keamanan Informasi",
+      "Analisis Kebutuhan",
+      "Arsitektur Enterprise"
+    ],
+    "kompetensi_manajerial": [
+      "Manajemen Proyek TI",
+      "Koordinasi Tim",
+      "Perencanaan Teknologi",
+      "Penganggaran TI",
+      "Manajemen Vendor"
+    ],
+    "kompetensi_sosial_kultural": [
+      "Kolaborasi",
+      "Komunikasi Teknis",
+      "Adaptabilitas",
+      "Service Orientation",
+      "Problem Solving"
+    ],
+    "indikator_perilaku": {
+      "level_1": [
+        "Mengembangkan modul aplikasi sederhana",
+        "Melakukan pemeliharaan sistem rutin",
+        "Membuat dokumentasi teknis yang jelas"
+      ],
+      "level_2": [
+        "Menganalisis kebutuhan pengguna secara komprehensif",
+        "Mengkoordinasikan pengembangan sistem terintegrasi",
+        "Mengelola basis data dengan optimal"
+      ],
+      "level_3": [
+        "Mendesain arsitektur sistem enterprise",
+        "Memanajemen proyek TI yang kompleks",
+        "Menyusun strategi transformasi digital"
+      ],
+      "level_4": [
+        "Mengembangkan kebijakan teknologi nasional",
+        "Melakukan inovasi sistem pemerintahan digital",
+        "Menyusun standarisasi TI nasional"
+      ]
+    }
+  }
+}

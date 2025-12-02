@@ -1,0 +1,92 @@
+test_cases = [
+    # Test Case 1: Kompetensi Kerjasama
+    {
+        "nama": "Budi Santoso",
+        "jabatan": "Kepala Seksi",
+        "jawaban_test": """
+        Dalam menyelesaikan konflik tim, saya pertama-tama mengumpulkan semua pihak 
+        untuk mendengarkan perspektif masing-masing. Saya menggunakan pendekatan win-win solution 
+        dengan mencari titik temu yang menguntungkan semua pihak. Setelah mencapai kesepakatan, 
+        saya memastikan implementasinya dengan monitoring berkala dan evaluasi hasil.
+        Saya juga mendorong komunikasi terbuka dan membangun lingkungan yang kolaboratif.
+        """,
+        "kompetensi": "Kerjasama",
+        "level_target": 3
+    },
+    
+    # Test Case 2: Kompetensi Manajemen SDM
+    {
+        "nama": "Siti Rahayu",
+        "jabatan": "Analis Kepegawaian", 
+        "jawaban_test": """
+        Untuk menyusun perencanaan SDM, saya melakukan analisis kebutuhan berdasarkan 
+        rencana strategis organisasi. Saya menggunakan data historis dan proyeksi kebutuhan 
+        untuk menentukan jumlah dan kualifikasi pegawai yang dibutuhkan. 
+        Saya juga mempertimbangkan aspek pengembangan karir dan suksesi planning.
+        Dalam implementasinya, saya melibatkan berbagai stakeholder untuk memastikan
+        rencana yang disusun sesuai dengan kebutuhan operasional.
+        """,
+        "kompetensi": "Manajemen SDM",
+        "level_target": 2
+    },
+    
+    # Test Case 3: Kompetensi Integritas
+    {
+        "nama": "Ani Suryani", 
+        "jabatan": "Inspektur Madya",
+        "jawaban_test": """
+        Ketika menemukan adanya potensi penyalahgunaan wewenang di laporan, saya langsung
+        melakukan verifikasi silang terhadap data dan peraturan yang berlaku tanpa memandang
+        siapa yang terlibat. Saya memastikan semua temuan didukung oleh bukti yang kuat
+        dan melaporkannya sesuai prosedur meskipun ada tekanan dari berbagai pihak.
+        Prinsip keadilan dan transparansi selalu saya pegang teguh dalam setiap investigasi.
+        """,
+        "kompetensi": "Integritas",
+        "level_target": 4
+    },
+    
+    # Test Case 4: Kompetensi Komunikasi
+    {
+        "nama": "Dewi Kartika",
+        "jabatan": "Kepala Bidang",
+        "jawaban_test": """
+        Dalam menyampaikan informasi kebijakan baru, saya menggunakan berbagai saluran komunikasi
+        seperti rapat tim, email resmi, dan bulletin internal. Saya memastikan pesan disampaikan
+        dengan jelas dan mudah dipahami oleh semua level pegawai. Untuk feedback, saya membuka
+        ruang diskusi dan konsultasi agar semua pihak merasa didengarkan.
+        Saya juga melakukan follow up untuk memastikan pemahaman yang sama.
+        """,
+        "kompetensi": "Komunikasi", 
+        "level_target": 3
+    },
+    
+    # Test Case 5: Kompetensi Perencanaan Strategis
+    {
+        "nama": "Rizki Pratama",
+        "jabatan": "Kepala Dinas",
+        "jawaban_test": """
+        Dalam menyusun rencana strategis, saya menganalisis tren makro, kebutuhan stakeholder,
+        dan kapabilitas organisasi. Saya menggunakan tools seperti SWOT analysis dan balanced scorecard
+        untuk memetakan strategi. Rencana yang disusun mencakup tujuan jangka pendek dan panjang
+        dengan indikator kinerja yang terukur. Implementasinya melibatkan seluruh unit kerja
+        dengan sistem monitoring yang berkelanjutan.
+        """,
+        "kompetensi": "Perencanaan Strategis",
+        "level_target": 4
+    },
+    
+    # Test Case 6: Kompetensi Pelayanan Publik
+    {
+        "nama": "Maya Sari",
+        "jabatan": "Pelaksana Pelayanan",
+        "jawaban_test": """
+        Dalam memberikan pelayanan, saya selalu mengutamakan kepuasan masyarakat dengan
+        prinsip cepat, tepat, dan ramah. Saya memastikan semua prosedur dijelaskan dengan jelas
+        dan membantu masyarakat yang mengalami kesulitan. Untuk perbaikan layanan, saya
+        mengumpulkan feedback dan merekomendasikan inovasi proses yang lebih efisien.
+        Standar pelayanan selalu saya jaga konsistensinya.
+        """,
+        "kompetensi": "Pelayanan Publik",
+        "level_target": 2
+    }
+]
